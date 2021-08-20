@@ -32,7 +32,7 @@ public class UnderstandThis {
 		// TODO Auto-generated method stub
 
 			Test t = new Test();
-		//	t.display();
+			t.display();
 			t.display(222, "HCL");
 			
 	}
