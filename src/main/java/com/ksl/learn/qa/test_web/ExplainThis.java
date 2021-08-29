@@ -1,6 +1,6 @@
 package com.ksl.learn.qa.test_web;
 
-public class ExpalinThis {
+public class ExplainThis {
 	
 	public static void main(String[] args) {
 		
@@ -38,7 +38,7 @@ class Rectangle{
 	}
 	
 	public void square2() {
-		this.square("Kunal"); //Pass an argument in the method call
+		this.square("Sams"); //Pass an argument in the method call
 		System.out.println("Hi Square2");
 	}
 	

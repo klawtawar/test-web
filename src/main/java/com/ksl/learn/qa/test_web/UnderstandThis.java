@@ -6,9 +6,6 @@ class Test {
 	int pid = 10;
 	String comp = "IBM";
 	
-	Test(){
-		System.out.println("Test Construtor");
-	}
 	
 	public void display(int p, String c) {
 	
@@ -32,8 +29,9 @@ public class UnderstandThis {
 		// TODO Auto-generated method stub
 
 			Test t = new Test();
-			t.display();
 			t.display(222, "HCL");
+			t.display();
+
 			
 	}
 
