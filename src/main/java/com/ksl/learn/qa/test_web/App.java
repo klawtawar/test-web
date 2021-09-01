@@ -18,6 +18,17 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 /**
  * Hello world!
  *
+ *
+		Create a Collection
+		Collection Subtypes
+		Add Element to Collection
+		Remove Element From Collection
+		Add Collection of Objects to Collection
+		Remove Collection of Elements From Collection
+		Retain All Elements From a Collection in Another Collection
+		Checking if a Collection Contains a Certain Element
+		Collection Size
+		Iterate a Collection
  */
 public class App 
 {
